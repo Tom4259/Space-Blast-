@@ -1,7 +1,7 @@
 # Space Blast!
  
 To access this game i have made, go to the link to download the contents, overall it is 1 GB in size:
-http://www.mediafire.com/folder/cixrtx95nrcs8/Game+Builds
+https://drive.google.com/drive/folders/1ChtWWHYxau2M6B444SV0E2LSynd47U4l?usp=sharing
 
 This is my first proper game so there could be many improvements and other games to come!
 
