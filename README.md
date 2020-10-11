@@ -12,7 +12,7 @@ By all means, ask for a feature to be added, i have only got 10 levels AND I NEE
 To ask for a feature, create an issue with the label 'Feature request'
 
 # Bug reporting
-If you do encounter any bugs while playing do make a new issue, i will try to fix it, re-build the project and notify you that i have fixed it.
+If you do encounter any bugs while playing, do make a new issue. I will try to fix it as soon as i can, re-build the project and make a new link, and notify you that i have fixed it.
 
 # Known bugs:
 Currently, there are no bugs
