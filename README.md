@@ -3,6 +3,8 @@
 To access this game i have made, go to the link to download the contents, overall it is 1 GB in size:
 https://drive.google.com/drive/folders/1ChtWWHYxau2M6B444SV0E2LSynd47U4l?usp=sharing
 
+You need to create a new folder in File Explorer and put all of the contents from the link into that folder. Create a new issue with the tag 'Setup' if you need help.
+
 This is my first proper game so there could be many improvements and other games to come!
 
 # Want a new feature?
