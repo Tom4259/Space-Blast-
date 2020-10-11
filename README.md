@@ -15,4 +15,4 @@ If you do encounter any bugs while playing do make a new issue, i will try to fi
 # Known bugs:
 Currently, there are no bugs
 
-# Thank you for playing my game
+# Thank you for playing the game
