@@ -1,7 +1,7 @@
 # Space Blast!
  
-To access this game i have made, go to the link to download the contents, overall it is 1 GB in size:
-https://drive.google.com/drive/folders/1ChtWWHYxau2M6B444SV0E2LSynd47U4l?usp=sharing
+To access this game i have made, go to the link to download the contents. This is the first time i have published the game onto GameJolt so i do not know my way around the site or if you have to create an account to download the contents.
+https://gamejolt.com#/games/space_blast/545043
 
 You need to create a new folder in File Explorer and put all of the contents from the link into that folder. Create a new issue with the label 'Setup' if you need help.
 
