@@ -3,12 +3,14 @@
 To access this game i have made, go to the link to download the contents. This is the first time i have published the game onto GameJolt so i do not know my way around the site or if you have to create an account to download the contents.
 https://gamejolt.com#/games/space_blast/545043
 
+https://tom42-59.itch.io/space-blast
+
 You need to create a new folder in File Explorer and put all of the contents from the link into that folder. Create a new issue with the label 'Setup' if you need help.
 
 This is my first proper game so there could be many improvements and other games to come!
 
 # Want a new feature?
-By all means, ask for a feature to be added, i have only got 10 levels AND I NEED MORE INSPIRATION!
+By all means, ask for a feature to be added, i have only got 14 levels AND I NEED MORE INSPIRATION!
 To ask for a feature, create an issue with the label 'Feature request'
 
 # Bug reporting
